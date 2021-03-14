@@ -178,7 +178,7 @@ resource "aws_route53_record" "geo_others" {
 
 ####################################################################################
 #
-# add a record to the zone using geolocation routing policy
+# add a record to the zone using latency routing policy
 #
 ####################################################################################
 
